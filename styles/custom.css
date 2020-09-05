@@ -1,0 +1,22 @@
+.background {
+  background: url("../public/home.jpg") no-repeat;
+  background-size: cover;
+}
+
+.deep {
+  background: rgb(4 11 86 / 65%);
+}
+
+.deep .center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* .scrolled {
+  position: fixed;
+  background-color: royalblue;
+  bottom: 0;
+  left: 0;
+} */
